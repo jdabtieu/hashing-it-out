@@ -1,0 +1,4 @@
+Computation Time (25k passwords, rockyou25k.txt) on the fast algorithms, 3x Common KVM processor, Ubuntu 22.04.4 LTS, Python 3.10.12, 6 GB RAM
+Algorithm,Time
+SHA-256,0.07300980799999479
+Plaintext,0.002325460000008661

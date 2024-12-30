@@ -1,0 +1,12 @@
+Computation Time (32 passwords, rockyou32.txt) on all the default algorithms, 6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+Algorithm,Time
+Argon2,1.32096
+PBKDF2-100k,0.672283
+PBKDF2-600k,4.01914
+PBKDF2-1m,6.74028
+Scrypt-Mem,5.53282
+Scrypt-Balanced,3.99816
+Scrypt-CPU,3.22376
+yescrypt,0.472605
+sha256,2.39e-05
+Plaintext,5e-07

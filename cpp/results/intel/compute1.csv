@@ -1,0 +1,12 @@
+Computation Time (32 passwords, rockyou32.txt) on all the default algorithms, 3x Common KVM processor,Ubuntu 22.04.4 LTS,Python 3.10.12,6 GB RAM
+Algorithm,Time
+Argon2,5.42091
+PBKDF2-100k,3.42996
+PBKDF2-600k,20.5777
+PBKDF2-1m,34.8082
+Scrypt-Mem,9.25214
+Scrypt-Balanced,6.41624
+Scrypt-CPU,5.37747
+yescrypt,0.925362
+sha256,0.000251042
+Plaintext,9.329e-06

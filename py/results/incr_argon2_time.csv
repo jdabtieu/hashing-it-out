@@ -1,0 +1,7 @@
+Computation Time (32 passwords, rockyou32.txt) on Argon2id with increasing time cost,6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+Timecost,Time(s),MemoryUsage(KB)
+1,1.7563923999999815,64.125
+2,2.719865299999981,64.0859375
+3,3.662382999999977,64.21484375
+4,4.713772199999994,23.31640625
+5,5.726685599999996,64.19921875

@@ -1,0 +1,11 @@
+Memory Use (32 passwords, rockyou32.txt) on all the default algorithms, 6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+Algorithm,Max Usage
+Argon2,65932.0
+PBKDF2-100k,256.0
+PBKDF2-600k,0.0
+PBKDF2-1m,0.0
+Scrypt-Mem,131132.0
+Scrypt-Balanced,32776.0
+Scrypt-CPU,8192.0
+SHA-256,0.0
+Plaintext,0.0

@@ -1,0 +1,5 @@
+Computation Time (32 passwords, rockyou32.txt) on Scrypt with increasing parameters,6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+N,R,P,Time(s),MemoryUsage(KB)
+131072,8,1,9.873163900000009,128.0
+32768,8,3,6.410090499999967,32.11328125
+8192,8,10,4.580748100000051,0.0

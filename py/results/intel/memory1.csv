@@ -1,0 +1,11 @@
+Memory Use (32 passwords, rockyou32.txt) on all the default algorithms, 3x Common KVM processor, Ubuntu 22.04.4 LTS, Python 3.10.12, 6 GB RAM
+Algorithm,Max Usage
+Argon2,66136.0
+PBKDF2-100k,132.0
+PBKDF2-600k,8.0
+PBKDF2-1m,0.0
+Scrypt-Mem,131076.0
+Scrypt-Balanced,32732.0
+Scrypt-CPU,8168.0
+SHA-256,0.0
+Plaintext,0.0

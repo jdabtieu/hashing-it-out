@@ -1,0 +1,4 @@
+Computation Time (25k passwords, rockyou25k.txt) on the fast algorithms, 6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+Algorithm,Time
+sha256,0.00972043
+Plaintext,0.000171299

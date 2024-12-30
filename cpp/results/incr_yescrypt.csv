@@ -1,0 +1,7 @@
+Computation Time (32 passwords, rockyou32.txt) on Yescrypt with increasing parameters, 6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+N,Time(s),MemoryUsage(KB)
+4096,0.466297,16704
+8192,0.561339,35072
+16384,1.11605,67840
+32768,2.24978,133376
+65536,4.95912,264448

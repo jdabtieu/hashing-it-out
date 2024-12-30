@@ -1,0 +1,9 @@
+Computation Time (32 passwords, rockyou32.txt) on PBKDF2 with increasing iterations, 6x AMD Ryzen 5 5600G with Radeon Graphics,Ubuntu 22.04.5 LTS,Python 3.10.12,4 GB RAM
+Iters,Time(s),MemoryUsage(KB)
+10000,0.0682306,2304
+100000,0.673035,2304
+200000,1.34781,2304
+400000,2.68786,2304
+600000,4.04362,2304
+1000000,6.73867,2304
+2000000,13.4715,2304
